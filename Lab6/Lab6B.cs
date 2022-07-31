@@ -1,13 +1,4 @@
-﻿/*
-    Class: 1321L
-    Section: Section W#1 C#
-    Term: Spring 2022
-    Instructor: Gayathri Yella
-    Name: Brandon Wright
-    Lab#: 6B
- */
-
-using System;
+﻿using System;
 
 namespace Lab6
 {
